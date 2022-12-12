@@ -1,0 +1,161 @@
+{
+  "main": {
+    "id": "202d39479c99c48b",
+    "type": "split",
+    "children": [
+      {
+        "id": "f6941fa1919c6869",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e6824ab27c28cff7",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "f955c2a2a1f651b6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Introduction/2. Motivation And Mindset.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "55e4203a4692deca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Introduction/3. Asking For Help.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3dc924c1905c95b4",
+    "type": "split",
+    "children": [
+      {
+        "id": "a8bb9924aaaffca2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2e0f51e3cf43660f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c3034ea7ffaf3860",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3bcd23d7611d5131",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e714bebb68eebbc7",
+    "type": "split",
+    "children": [
+      {
+        "id": "9d10f3db39bc40bd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7b7de657ec799cc0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e9ba33291c355797",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "558d7a2524acd258",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "5233504e11311482",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "e6824ab27c28cff7",
+  "lastOpenFiles": [
+    "Introduction/1. Introduction To Web Development.md",
+    "Introduction/2. Motivation And Mindset.md",
+    "Introduction/3. Asking For Help.md"
+  ]
+}
