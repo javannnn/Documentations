@@ -11,7 +11,7 @@
             "id": "e6824ab27c28cff7",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {}
             }
           },
@@ -152,10 +152,11 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "e6824ab27c28cff7",
+  "active": "2e0f51e3cf43660f",
   "lastOpenFiles": [
+    "Introduction/3. Asking For Help.md",
+    "2022-12-12.md",
     "Introduction/1. Introduction To Web Development.md",
-    "Introduction/2. Motivation And Mindset.md",
-    "Introduction/3. Asking For Help.md"
+    "Introduction/2. Motivation And Mindset.md"
   ]
 }
