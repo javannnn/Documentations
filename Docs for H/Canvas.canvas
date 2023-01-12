@@ -1,0 +1,7 @@
+{
+	"nodes":[
+		{"id":"33c19d8be0c9d24b","x":-792,"y":-461,"width":701,"height":930,"type":"file","file":"Proxmox Configuration.md"},
+		{"id":"d09c361342997d42","x":-13,"y":-461,"width":715,"height":930,"type":"file","file":"Material Design for Gize.md"}
+	],
+	"edges":[]
+}
